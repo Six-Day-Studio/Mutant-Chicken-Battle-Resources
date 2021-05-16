@@ -1,2 +1,4 @@
-# Mutant-Chicken-Battle-Resources
-Repositório criado para os inscritos do canal Six Day Studio contribuírem com assets para o jogo multiplayer que estamos criando.
+# Para contribuir siga os passos abaixo
+
+- 1 Baixe o Github desktop aqui: https://desktop.github.com/
+- 2 Assista ao vídeo tutorial no canal da Six Day Studio aqui: 
