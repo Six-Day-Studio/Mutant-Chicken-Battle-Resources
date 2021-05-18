@@ -8,7 +8,8 @@
 - Faça as alterações que julgar necessário, adicionando modelos, editando, etc, comite e depois abra um PR como no vídeo do passo 2.
 
 ## Pull requests
-Todos os PR's serão avaliados e só serão aceitos caso estejam seguindo as regras.
+- Aponte o seu PR para a branch `develop` para evitar erros em `master`.
+- Todos os PR's serão avaliados e só serão aceitos caso estejam seguindo as regras.
 
 Isso é tudo =)
 
